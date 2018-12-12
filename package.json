@@ -51,6 +51,7 @@
     "inquirer": "^6.0.0",
     "minimist": "^1.2.0",
     "mkdirp": "^0.5.1",
+    "split-string-words": "^1.0.0",
     "untildify": "^3.0.3"
   },
   "auto-changelog": {
